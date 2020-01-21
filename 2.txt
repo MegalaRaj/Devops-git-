@@ -1,2 +1,4 @@
-this is test file
+this is Mega
+This is my test file for Git Clone
+
 
